@@ -15,6 +15,6 @@ Para poder conseguir unas mejores metricas, utilizamos la biblioteca H20 con la 
 
 ## Resultados
 
-Puedes ver los resultados de la competicion [aqui](https://www.kaggle.com/c/diamonds-datamad0820/leaderboard)
+Puedes ver los resultados de la competición [aquí](https://www.kaggle.com/c/diamonds-datamad0820/leaderboard)
 
-<a href="https://ibb.co/rvmndfL"><img src="https://i.ibb.co/25yXZYL/Captura-de-pantalla-2020-11-04-a-las-17-06-55.png" alt="Captura-de-pantalla-2020-11-04-a-las-17-06-55" border="0"></a>
+<a><img src="https://i.ibb.co/25yXZYL/Captura-de-pantalla-2020-11-04-a-las-17-06-55.png" alt="Presentación" border="0"></a>
